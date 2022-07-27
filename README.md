@@ -1,2 +1,2 @@
 # Python_Automacao_Analise_Dados
-Automação e Análise de Dados com Python
+Projeto composto pela utilização de bibliotecas comuns para automoção e análise de dados.
